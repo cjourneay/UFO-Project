@@ -5,12 +5,10 @@ Date: January 14, 2019
 
 *****  Files included in the submission *******
 
-This Readme file
-
-tl_2018_us_state
-* File folder containing shape files and associated metadata to use in generating US maps 
- with State boundaries in the main report
-* Source - US Census Bureau
+UFO Data Scraping - 1994_2018.ipyb 
+* Jupityer notebook used to scrape original data
+* Updated from Assignment 1 with improved progress reporting of the web scraping
+* Generates output: UFO_observations_1994_2018.csv 
 
 Chris_Journeay - Coursework 2 - UFO Data Report.ipynb
 * This is a Jupyter Notebook containing the primary report for this assignment
@@ -24,7 +22,7 @@ Chris_Journeay - Coursework 2 - UFO Data Enrichment.ipynb
 * Data input: UFO_observations_1994_2018_2.csv 
 * Generates output: UFO_observations_1994_2018_3.csv 
 **** WARNING ****
-* This is a very processor notebook and can take 10+ minutes to exectute
+* This is a very processor intesnive notebook and can take 10+ minutes to exectute
 
 Chris_Journeay - Coursework 2 - UFO Data Cleanse.ipynb
 * This is a Jupyter Notebook that is used to cleanse the raw data from the website
@@ -32,9 +30,5 @@ Chris_Journeay - Coursework 2 - UFO Data Cleanse.ipynb
 * Data input: UFO_observations_1994_2018.csv 
 * Generates output: UFO_observations_1994_2018_2.csv 
 
-UFO Data Scraping - 1994_2018.ipyb 
-* Jupityer notebook used to scrape original data
-* Updated from Assignment 1 with improved progress reporting of the web scraping
-* Generates output: UFO_observations_1994_2018.csv 
 
 
